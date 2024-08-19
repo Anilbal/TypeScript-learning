@@ -1,0 +1,2 @@
+
+TypeScript is a programming language developed and maintained by Microsoft. It is a superset of JavaScript, meaning that it builds on top of JavaScript by adding additional features.It adds optional static types to JavaScript, which can help catch errors early in the development process and make the code more robust and maintainable.
